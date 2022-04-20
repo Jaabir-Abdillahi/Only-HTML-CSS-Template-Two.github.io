@@ -1068,6 +1068,8 @@ header nav .form i {
     padding: 10px 20px;
     border: 1px solid white;
     text-transform: uppercase;
+    cursor: pointer;
+
 }
 
 .subscribe form input[type="email"]:focus,
@@ -1131,6 +1133,7 @@ header nav .form i {
 .contact .content form textarea.main-input {
     height: 200px;
 }
+
 
 .contact .content form input[type="submit"] {
     background-color: var(--main-color);
